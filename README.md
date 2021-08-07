@@ -13,3 +13,5 @@ Create venv:
 
 * python -m venv venv
 * venv\Scripts\activate
+
+* set WSL and run install script for magenta 2
