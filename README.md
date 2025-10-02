@@ -37,3 +37,11 @@ convert_dir_to_note_sequences \
 fix numpy error in by changing np.bool to np.bool_ inside tensorflow-probability
 ```
 
+Should be ready to go.
+
+Create venv:
+
+* python -m venv venv
+* venv\Scripts\activate
+
+* set WSL and run install script for magenta 2
